@@ -1,7 +1,6 @@
 <?php
 
 /**
- * Calling KiotViet API
  * Huynh Mai Anh Kiet
  * HuynhMaiAnhKiet@Gmail.Com
  * (+84)0905567654
